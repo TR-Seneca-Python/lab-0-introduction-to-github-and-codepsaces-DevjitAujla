@@ -1,1 +1,1 @@
-print("Hello, - I'm Devjit Aujla (Codespaces edit)")
+print("Hello, - I'm Devjit Aujla (github edit)")
